@@ -1,2 +1,2 @@
 # mid-size-blog
-blog based on ghost
+blog based on ghost.
